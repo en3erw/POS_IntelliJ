@@ -68,4 +68,14 @@ public class AppTest
         assertEquals(7,app.calculate(3,4));
     }
 
+
+    @Test
+    public void testing2()
+    {
+
+        assertEquals(10,app.calculate(4,9));
+
+
+    }
+
 }
