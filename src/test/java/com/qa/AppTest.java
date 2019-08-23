@@ -73,7 +73,7 @@ public class AppTest
     public void testing2()
     {
 
-        assertEquals(10,app.calculate(4,9));
+        assertEquals(13,app.calculate(4,9));
 
 
     }
