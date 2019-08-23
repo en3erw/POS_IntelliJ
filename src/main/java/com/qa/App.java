@@ -21,7 +21,6 @@ public class App
 
 
 
-asdqweq;[][)
        // System.out.println(args[0]);
         ConnectDatabase();
     }
