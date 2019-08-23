@@ -20,7 +20,7 @@ public class AddProductForm extends Application{
             primaryStage.show();
 
 
-            dasdasdasda;
+          
     }
     public static void main(String... args){
         launch(args);
